@@ -823,11 +823,11 @@
 			<etym root="אהל" type="main"/>
 		</entry>
 		<entry id="agw">
-			<w xlit="ʾōhel">אֹ֫הֶל</w> <pos>Np</pos> <def>Ohel</def>
+			<w xlit="ʾōhel">אֹהֶל</w> <pos>Np</pos> <def>Ohel</def>
 			<xref bdb="a.bl.ab" strong="169"/>
 		</entry>
 		<entry id="agx">
-			<w xlit="ʾōhel">אֹ֫הֶל</w> <pos>N</pos> <def>tent</def>
+			<w xlit="ʾōhel">אֹהֶל</w> <pos>N</pos> <def>tent</def>
 			<xref bdb="a.bl.ab" strong="168" twot="32a"/>
 			<etym type="sub">agy</etym>
 		</entry>
